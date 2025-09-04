@@ -1,12 +1,11 @@
 # Olá, sou Plínio 👋
 
-🎓 Estudante de Ciência da Computação no UNIPÊ – 3º período  
-💻 Focado em aprender e aplicar Python e Java  
+🎓 Estudante de Ciência da Computação no UNIPÊ – 4º período  
+💻 Focado em aprender e aplicar Python  
 🚀 Em busca de uma oportunidade de estágio para crescer na área de tecnologia  
 
 ## 🧠 Tecnologias que estou estudando:
-- Python (Curso em Vídeo)
-- Java (projetos próprios)
+- Python (Cursoemvideo.com e Faculdade)
 - Git e GitHub
 
 ## 📌 Projetos
@@ -14,6 +13,5 @@
 
 ## 📫 Contato
 - Email: pliniotargino13@hotmail.com
-- GitHub: [PlinioFdev](https://github.com/PlinioFdev)
-
+- linkedin: www.linkedin.com/in/plínio-targino-martins-filho-34719831b
 ---
