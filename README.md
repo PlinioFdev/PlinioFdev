@@ -58,13 +58,6 @@ Single-file Python library wrapping the full QuickBooks Online API v3:
 
 ---
 
-## 📊 GitHub Stats
-
-![Plinio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlinioFdev&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlinioFdev&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0149a1a4c39daaeca2)
