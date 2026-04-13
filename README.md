@@ -58,6 +58,32 @@ Single-file Python library wrapping the full QuickBooks Online API v3:
 
 ---
 
+### Meridian — E-commerce Intelligence Platform
+> *Django 4.2 · DRF · PostgreSQL · Celery + Redis · React · Docker Compose*
+
+Full-stack analytics dashboard connecting to the Shopify API with real business metrics:
+- Shopify OAuth 2.0 flow + incremental sync with cursor-based pagination
+- Two-layer data architecture: raw ingestion → pre-aggregated analytics engine
+- Cohort retention matrix via raw SQL, customer LTV segmentation, MoM growth
+- Dark-mode React dashboard with live data — revenue chart, top products, customer segments
+
+[→ github.com/PlinioFDev/meridian](https://github.com/PlinioFDev/meridian)
+
+---
+
+### DocFlow AI — AI-Powered Document Processing SaaS
+> *Django 4.2 · DRF · PostgreSQL · Celery · WebSocket · React · Claude API · Docker Compose*
+
+Multi-tenant SaaS platform that extracts structured data from documents using AI:
+- Configurable pipeline: Extract → Validate → Transform → Deliver
+- Per-field confidence scoring with human review queue for low-confidence results
+- Real-time processing status via WebSocket
+- Claude API integration for intelligent document parsing
+
+[→ github.com/PlinioFDev/docflow-ai](https://github.com/PlinioFDev/docflow-ai)
+
+---
+
 ## 📫 Contact
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0149a1a4c39daaeca2)
