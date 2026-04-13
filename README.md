@@ -34,15 +34,17 @@ CS student in the final semesters, building real production systems as a freelan
 ## 🚀 Projects
 
 ### Executive App — Multi-Tenant Manufacturing Intelligence Platform
-> *Django 4.2 · DRF · PostgreSQL 15 · Stripe · Docker Compose*
+*Django 4.2 · DRF · PostgreSQL 15 · Celery + Redis · Stripe · Docker Compose*
 
 Full-stack multi-tenant SaaS backend for a manufacturing analytics client:
 
-- Multi-org data isolation via site-scoped Django managers and request middleware
-- Stripe billing — subscription lifecycle, webhooks, and entitlement gating
-- KPI engine with AI-powered insights layer
-- 176 passing tests across unit, integration, and negative-path coverage
-- Full API documentation + 17 recorded proof-of-work videos delivered
+- Multi-org data isolation via site-scoped Django managers, request middleware, and D9 entitlement enforcement
+- Stripe billing — subscription lifecycle, webhooks, and credit reservation model with compensating transactions
+- KPI engine with AI-powered insights layer and dashboard execution pipeline
+- Scheduled ingestion with Celery Beat, full job lifecycle state machine, and bounded catch-up policy
+- Usage metering, nudge generation, and upgrade trigger telemetry
+- 402 passing tests across unit, integration, concurrency, and negative-path coverage
+- Frontend handover pack with OpenAPI schema, Postman collection, and endpoint catalog
 
 ---
 
